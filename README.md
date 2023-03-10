@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### I am a third-year econ student ✍️
+I am currently working on DS105L, a course about data collection! 
+
 <!--
 **Christinakeke/Christinakeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
